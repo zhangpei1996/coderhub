@@ -1,5 +1,5 @@
 const Router = require('koa-router');
-
+console.log(2);
 const {
   create,
   details,

@@ -11,6 +11,8 @@ const {
   fileInfo
 } = require('../controller/moment.controller');
 
+console.log(1);
+
 const { 
   verifyAuth,
   verifyPermission
